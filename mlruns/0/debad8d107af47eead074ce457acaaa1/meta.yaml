@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data_science_Masters/Projects/End_to_End_Dvc_Mlflow/mlruns/0/debad8d107af47eead074ce457acaaa1/artifacts
+end_time: 1700544321359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: debad8d107af47eead074ce457acaaa1
+run_name: popular-wolf-232
+run_uuid: debad8d107af47eead074ce457acaaa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700544318536
+status: 3
+tags: []
+user_id: AMD

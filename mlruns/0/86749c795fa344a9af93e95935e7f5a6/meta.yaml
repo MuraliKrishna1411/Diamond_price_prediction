@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data_science_Masters/Projects/End_to_End_Dvc_Mlflow/mlruns/0/86749c795fa344a9af93e95935e7f5a6/artifacts
+end_time: 1700544644438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86749c795fa344a9af93e95935e7f5a6
+run_name: clean-lark-880
+run_uuid: 86749c795fa344a9af93e95935e7f5a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700544641719
+status: 3
+tags: []
+user_id: AMD

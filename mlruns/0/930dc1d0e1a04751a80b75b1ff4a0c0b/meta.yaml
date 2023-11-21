@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data_science_Masters/Projects/End_to_End_Dvc_Mlflow/mlruns/0/930dc1d0e1a04751a80b75b1ff4a0c0b/artifacts
+end_time: 1700544464366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 930dc1d0e1a04751a80b75b1ff4a0c0b
+run_name: nosy-mare-119
+run_uuid: 930dc1d0e1a04751a80b75b1ff4a0c0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700544461680
+status: 3
+tags: []
+user_id: AMD
